@@ -1,0 +1,5 @@
+Time complexity of an algorithms quantifies the amount of time 
+taken by a program to run as a function of length of the input
+
+=> when space complexity and time complexity is low --> Efficient code
+
